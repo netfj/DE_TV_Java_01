@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "DE_TV_Java_01"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_TV_Empty Feature Ability"
+    },
+    {
+      "name": "HelloWorld",
+      "value": "【世界你好！】"
+    }
+  ]
+}
